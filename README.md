@@ -12,6 +12,6 @@ Usage: SPR.py     \<Domain file\>    \<Observations\>     \<Strategy\>    \<Gold
   - probeByMostProbablePlan
   - probeByMostProbableHypothesis
   - probeByEntropy
-  - probeByEntropySubtrees (if using this option, should uncomment lines 143-149 in the file ./Source/Algorithm.py
+  - probeByEntropySubtrees (if using this option, should uncomment lines 143-149 in the file ./Source/Algorithm.py)
    
 \<Gold Standard\> path to an xml of the correct hypothesis
